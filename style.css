@@ -306,6 +306,9 @@ nav .fa-solid{
 }
 
 @media only screen and (max-width: 600px){
+    .letter{
+        width:100px;
+    }
     #header{
         background-image:none;
     }
@@ -366,9 +369,6 @@ nav .fa-solid{
     }
     .copyright{
         font-size:14px;
-    }
-    .letter{
-        width:200px;
     }
 #msg{
     color:#61b752;
