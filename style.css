@@ -309,8 +309,7 @@ nav .fa-solid{
     .letter{
         position: absolute;
         left: 150px;
-        width: 140px;
-        height: 140px;
+        width: 240px;
     }
     #header{
         background-image:url("mobilebackground.png");
