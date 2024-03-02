@@ -307,10 +307,15 @@ nav .fa-solid{
 
 @media only screen and (max-width: 600px){
     .letter{
-        display:none;
+        position: absolute;
+        left: 150px;
+        width: 140px;
+        height: 140px;
     }
     #header{
-        background-image:none;
+        background-image:url("mobilebackground.png");
+        filter: blur(8px);
+        width:100%;
     }
     .header-text{
         margin-top:100%;
