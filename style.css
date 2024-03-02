@@ -307,7 +307,7 @@ nav .fa-solid{
 
 @media only screen and (max-width: 600px){
     .letter{
-        width:100px;
+        display:block;
     }
     #header{
         background-image:none;
